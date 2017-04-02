@@ -38,7 +38,7 @@ func StringPrefix(length int, prefix string) string {
 	return prefix + String(length)
 }
 
-// StringSufix returns random string with chosen sufix
-func StringSufix(length int, sufix string) string {
-	return String(length) + sufix
+// StringSuffix returns random string with chosen sufix
+func StringSuffix(length int, suffix string) string {
+	return String(length) + suffix
 }
