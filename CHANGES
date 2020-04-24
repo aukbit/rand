@@ -1,0 +1,8 @@
+Version v0.1.0
+ - init go mod
+ - add random int func
+ - test string funcs
+ - suffix typo
+ - license file
+ - first commit
+
